@@ -1,3 +1,65 @@
+.trafficLight{
+    width: 300px;
+    height: 450px;
+    background-color: black;
+    margin: auto;
+    align-items: center;
+    padding: 10px;
+    
+}
+
+.green-glow{
+    box-shadow: 0 0 9px 4px green;
+    background: green;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin:  30px auto;
+ 
+}
+.red-glow{
+    box-shadow: 0 0 9px 4px red;
+    background: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin:  30px auto;
+ 
+}
+.yellow-glow{
+    box-shadow: 0 0 9px 4px yellow;
+    background: yellow;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin:  30px auto;
+  }
+
+.green{
+  
+  background: green;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin:  30px auto;
+}
+.red{
+ 
+  background: red;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin:  30px auto;
+}
+.yellow{
+  
+  background: yellow;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin:  30px auto;
+}
+
 
 /* 
 
